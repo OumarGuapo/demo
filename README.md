@@ -1,2 +1,2 @@
 # demo
-Ceci est un demo
+Modification sur navigateur Web
